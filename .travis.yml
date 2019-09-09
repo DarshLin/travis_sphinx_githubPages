@@ -6,4 +6,4 @@ python:
  cache: pip
 
  install: "pip install sphinx"
- script: sphinx-build -nWT -b html . _build/html
+#  script: sphinx-build -nWT -b html . _build/html
