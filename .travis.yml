@@ -1,16 +1,14 @@
 language: python
 python:
-        - "3.6"
-
+- '3.6'
 sudo: false
 cache: pip
-
-install: "pip install sphinx && pip install guzzle_sphinx_theme"
+install: pip install sphinx && pip install guzzle_sphinx_theme
 script: sphinx-build -nWT -b html . _build/html
-
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN
+  github-token: "$GITHUB_TOKEN"
   on:
-    branch: gh-pages
+    branch: master
+
