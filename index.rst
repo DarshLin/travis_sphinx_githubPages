@@ -10,6 +10,8 @@ Welcome to travis_sphinx-githubPages's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Leeroy
+
 
 
 Indices and tables
