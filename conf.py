@@ -50,7 +50,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-# html_theme = 'bootstrap'
+html_theme = 'alabaster'
 
 # # Add any paths that contain custom static files (such as style sheets) here,
 # # relative to this directory. They are copied after the builtin static files,
@@ -59,7 +59,7 @@ html_static_path = ['html/_static']
 # html_theme_path = ['sphinx_bootstrap_theme.get_html_theme_path()']
 
 # html_theme_path = guzzle_sphinx_theme.html_theme_path()
-html_theme = 'alabaster'
+# html_theme = 'alabaster'
 
 # Register the theme as an extension to generate a sitemap.xml
 # extensions.append("guzzle_sphinx_theme")
