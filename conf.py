@@ -57,7 +57,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # html_theme_path = ['sphinx_bootstrap_theme.get_html_theme_path()']
 
 # html_theme_path = guzzle_sphinx_theme.html_theme_path()
-html_theme = 'default'
+html_theme = 'alabaster'
 
 # Register the theme as an extension to generate a sitemap.xml
 # extensions.append("guzzle_sphinx_theme")
