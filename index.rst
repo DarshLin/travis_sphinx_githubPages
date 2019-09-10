@@ -9,10 +9,8 @@ Need to test out travis deploying sphinx on github pages
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
-
-Leeroy
+   
+   Leeroy
 
 Indices and tables
 ==================
