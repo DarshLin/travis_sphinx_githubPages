@@ -3,16 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to travis_sphinx-githubPages's documentation!
-=====================================================
+Need to test out travis deploying sphinx on github pages
+========================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   Leeroy
 
 
+Leeroy
 
 Indices and tables
 ==================
