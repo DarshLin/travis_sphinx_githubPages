@@ -4,6 +4,7 @@ python:
 sudo: false
 cache: pip
 install: pip install sphinx && pip install guzzle_sphinx_theme
+before_script: cd _build
 script: sphinx-build -nWT -b html . _build/html
 deploy:
   provider: pages
