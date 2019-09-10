@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Need to test out travis deploying sphinx on github pages
-========================================================
+Darsh be making some serious changes here
+=========================================
 
 .. toctree::
    :maxdepth: 2
